@@ -4,7 +4,7 @@ My name is Manjunatha
 - Fascinate about Automation Testing 🎥
 
 In love with:
-    Cypress.io - Javascript tools and technologies
-    Data and its qulaity
+- Cypress.io - Javascript tools and technologies
+- Data and its qulaity
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjunatha-koosalapur)](https://github.com/anuraghazra/github-readme-stats)
