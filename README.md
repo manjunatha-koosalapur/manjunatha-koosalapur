@@ -7,10 +7,7 @@ In love with:
 - Cypress.io - Javascript tools and technologies
 - Data and its qulaity
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjunatha-koosalapur)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1 align="center">Hi 👋, I'm Manjunatha</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manjunatha-koosalapur" alt="manjunatha-koosalapur" /></a> </p>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjunatha-koosalapur)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +20,3 @@ In love with:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manjunatha-koosalapur&show_icons=true&locale=en&layout=compact" alt="manjunatha-koosalapur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjunatha-koosalapur&show_icons=true&locale=en" alt="manjunatha-koosalapur" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunatha-koosalapur&" alt="manjunatha-koosalapur" /></p>
