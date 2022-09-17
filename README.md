@@ -1,6 +1,6 @@
 ### Hi there 👋  Quality is not an act, it is a habit
 My name is Manjunatha
-- An expert Test Engineer - Fascinate about Automation Testing 🎥
+- An expert Test Engineer - Fascinate about Automation Testing 💻
 
 In love with:
 - Cypress.io - Javascript tools and technologies. - Data and its qulaity
