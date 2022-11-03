@@ -5,7 +5,7 @@ My name is Manjunatha - An expert Test Engineer - Fascinate about Automation Tes
 
 In love with:
 - Data and its qulaity
-- Cypress.io, Javascript - tools and technologies
+- Cypress.io, JavaScript - tech & tools 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjunatha-koosalapur)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
