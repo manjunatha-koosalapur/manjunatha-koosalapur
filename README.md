@@ -30,7 +30,7 @@ In love with:
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.reltio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/123333/icons/reltio.svg" alt="Reltio" width="60" height="60"/> </a>
 <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="Snowflake" width="100" height="100"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a>  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="80" height="80"/> </a> 
  
   
   
